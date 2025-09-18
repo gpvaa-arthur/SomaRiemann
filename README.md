@@ -25,5 +25,28 @@ A variável **soma** começa em 0 e vai armazenando, ao final de cada loop, o pr
 
 ## Testes unitários
 
+A seguir estão 6 testes unitários realizados em algumas funções elementares:
+
 * Função `x^2`:
-![]()
+  
+![](imagens/Teste1.png)
+
+* Função ` x^3+4x-3`:
+  
+![](imagens/Teste2.png)
+
+* Função `\sin(x)`:
+  
+![](imagens/Teste3.png)
+
+* Função `x cos(x^2)`:
+  
+![](imagens/Teste4.png)
+
+* Função `3x e^x;`:
+  
+![](imagens/Teste5.png)
+
+* Função `\ln (2x)`:
+  
+![](imagens/Teste6.png)
