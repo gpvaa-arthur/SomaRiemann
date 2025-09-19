@@ -50,3 +50,6 @@ A seguir estão 6 testes unitários realizados em algumas funções elementares:
 * Função `\ln (2x)`:
   
 ![](imagens/Teste6.png)
+
+## Vídeo
+[Vídeo mostrando o funcionamento do programa](https://youtu.be/tML5dzU9PpA)
