@@ -46,7 +46,7 @@ int main(){
     scanf("%lf", &b);
     clean_buffer();
 
-    printf("Digite um número inteiro de partições de Riemann (n)\n");
+    printf("Digite um nÃºmero inteiro de partiÃ§Ãµes de Riemann (n)\n");
     scanf("%d", &n);
     clean_buffer();
 
@@ -54,5 +54,5 @@ int main(){
 
     soma = somaRiemann(&x, b, n);
 
-    printf("%O valor da soma é %lf", soma);
+    printf("%O valor da soma Ã© %lf", soma);
 }
