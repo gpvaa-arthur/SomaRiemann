@@ -34,7 +34,7 @@ double somaRiemann(double *Px, double b, int n){
 }
 
 int main(){
-    setlocale(LC_ALL,"");
+    setlocale(LC_ALL,"pt_BR.UTF-8");
     double a, b;
     int n;
 
@@ -56,3 +56,4 @@ int main(){
 
     printf("%O valor da soma é %lf", soma);
 }
+
